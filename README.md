@@ -7,7 +7,7 @@
 <h1 align="center"><b>Hi , I'm Maxxow </b><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RwZXViOTBycG5qeXpzM2M4NTNtM3FocThtdm15bWxwYmE5Y3JiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PAuDiTd7DLwYagLGH3/giphy.gif" width="100"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Love+to+read+new+books..<3;..Dont+Cry+Mewtwo;You+Should+Be+Happy;I+Love+Linux+^^"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Love+to+read+new+books..<3;..Dont+Cry+Mewtwo;You+Should+Be+Happy;I+Love+Linux+^^;I+love+pourtuguesse"></a>
 </p>
 
 
