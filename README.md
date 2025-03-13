@@ -39,9 +39,7 @@ I am a computer systems engineering student, I am currently halfway through my d
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> 
 
-
 </span>
-
 
 <h4> Other Tools and Technologies </h4>
 <span>
