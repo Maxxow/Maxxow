@@ -5,12 +5,10 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <h1 align="center"><b>Hi , I'm Maxxow </b><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RwZXViOTBycG5qeXpzM2M4NTNtM3FocThtdm15bWxwYmE5Y3JiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PAuDiTd7DLwYagLGH3/giphy.gif" width="100"></h1>
-
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Love+to+read+new+books..<3;..Dont+Cry+Mewtwo;You+Should+Be+Happy;I+Love+Linux+^^;I+love+pourtuguesse;Terry+Pratchett;I+Don`t+Know;hiiii"></a>
 </p>
-
 
 <!-- BREVE DESCRIPCION -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -94,7 +92,6 @@ I am a computer systems engineering student, I am currently halfway through my d
   <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Maxxow&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxxow&layout=compact&theme=gotham&langs_count=8"/>
 </div>
-
 
 
 <!-- GIF FOOTER -->
