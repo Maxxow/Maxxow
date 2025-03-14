@@ -20,6 +20,7 @@
 I am a computer systems engineering student, I am currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, I would also like to learn cybersecurity. I love learning and creating something new, productive, I love automating activities although I still have a lot to learn.
 
 - 🧠 I am currently learning...
+  - Logic Programing
   - Python
   - SQL
 - 👾 I am trying to improve my programming logic.
