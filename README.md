@@ -8,7 +8,7 @@
 <!--  -->
 <!--Este es un comentario en md or html idk-->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Love+to+read+new+books..<3;..Dont+Cry+Mewtwo;You+Should+Be+Happy;I+Love+Linux+^^;I+love+pourtuguesse;Terry+Pratchett;I+Don`t+Know;hiiii"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Love+to+read+new+books..<3;..Dont+Cry+Mewtwo;You+Should+Be+Happy;I+Love+Linux+^^;I+love+pourtuguesse"></a>
 </p>
 
 <!-- BREVE DESCRIPCION -->
