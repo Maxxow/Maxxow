@@ -1,6 +1,5 @@
 
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
 
 <h1 align="center"><b>echo "Im Maxxow" </b><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RwZXViOTBycG5qeXpzM2M4NTNtM3FocThtdm15bWxwYmE5Y3JiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PAuDiTd7DLwYagLGH3/giphy.gif" width="100"></h1>
 <!--  -->
@@ -63,13 +62,10 @@ I am a computer systems engineering student, I am currently halfway through my d
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=Maxxow&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxxow&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
 
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
 
 ------
