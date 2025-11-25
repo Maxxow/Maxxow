@@ -1,5 +1,4 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
@@ -55,35 +54,11 @@ I am a computer systems engineering student, I am currently halfway through my d
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-```text
- ▄▄▄▄ ▓██   ██▓    ███▄ ▄███▓ ▄▄▄      ▒██   ██▒▒██   ██▒ ▒█████   █     █░
-▓█████▄▒██  ██▒   ▓██▒▀█▀ ██▒▒████▄    ▒▒ █ █ ▒░▒▒ █ █ ▒░▒██▒  ██▒▓█░ █ ░█░
-▒██▒ ▄██▒██ ██░   ▓██    ▓██░▒██  ▀█▄  ░░  █   ░░░  █   ░▒██░  ██▒▒█░ █ ░█ 
-▒██░█▀  ░ ▐██▓░   ▒██    ▒██ ░██▄▄▄▄██  ░ █ █ ▒  ░ █ █ ▒ ▒██   ██░░█░ █ ░█ 
-░▓█  ▀█▓░ ██▒▓░   ▒██▒   ░██▒ ▓█   ▓██▒▒██▒ ▒██▒▒██▒ ▒██▒░ ████▓▒░░░██▒██▓ 
-░▒▓███▀▒ ██▒▒▒    ░ ▒░   ░  ░ ▒▒   ▓▒█░▒▒ ░ ░▓ ░▒▒ ░ ░▓ ░░ ▒░▒░▒░ ░ ▓░▒ ▒  
-▒░▒   ░▓██ ░▒░    ░  ░      ░  ▒   ▒▒ ░░░   ░▒ ░░░   ░▒ ░  ░ ▒ ▒░   ▒ ░ ░  
- ░    ░▒ ▒ ░░     ░      ░     ░   ▒    ░    ░   ░    ░  ░ ░ ░ ▒    ░   ░  
- ░     ░ ░               ░         ░  ░ ░    ░   ░    ░      ░ ░      ░    
-      ░░ ░    
-```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
-<!--## Check out my Social Media
 
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.tiktok.com/@vapixel_" >
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
-</a>
-<a href="https://www.twitch.tv/valenwerle" >
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-</a>
-<a href="https://www.youtube.com/@ValenWerle">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
-</a>
 
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
@@ -96,7 +71,5 @@ I am a computer systems engineering student, I am currently halfway through my d
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ------
